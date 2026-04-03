@@ -1,4 +1,4 @@
-# Blecast — Snapcast Multi-Room Audio Web Controller
+# Blecast — Snapcast Multi-Room Audio Web Controller (vibe coded with Claude)
 
 A modern web-based controller for [Snapcast](https://github.com/badaix/snapcast) — a free, open-source multi-room audio synchronization system. Blecast lets you control volume, mute, latency, and stream assignment for all your rooms from any browser on your local network. It also includes a built-in playback engine powered by yt-dlp and ffmpeg, so you can stream YouTube, SoundCloud, internet radio, and more directly to all your speakers — no terminal needed.
 
