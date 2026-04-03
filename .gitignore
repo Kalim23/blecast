@@ -25,9 +25,3 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-
-# Claude Code local settings
-.claude/
-
-# Private notes
-prompt.md
